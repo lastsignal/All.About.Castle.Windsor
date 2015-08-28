@@ -1,0 +1,13 @@
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\ClassLibrary.dll
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\ClassLibrary.pdb
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\Castle.Core.dll
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\Castle.Windsor.dll
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\nunit.framework.dll
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\NUnit.Should.dll
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\Castle.Core.xml
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\Castle.Windsor.xml
+P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\nunit.framework.xml
+P:\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+P:\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.dll
+P:\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.pdb
