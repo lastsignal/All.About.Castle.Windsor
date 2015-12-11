@@ -23,7 +23,6 @@ Thumbs.db
 [Bb]in
 [Dd]ebug*/
 *.lib
-!3.Lib
 *.sbr
 obj/
 [Rr]elease*/
@@ -35,6 +34,3 @@ _ReSharper*/
 Logs
 *.dll
 packages/
-/5.Applications/HomeAccounting.Web/App_Data/UserStore_log.ldf
-/5.Applications/HomeAccounting.Web/App_Data/UserStore.mdf
-intermediate-bank-file.xml
