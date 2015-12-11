@@ -64,8 +64,14 @@
   </Choose>
   <ItemGroup>
     <Compile Include="BasicTest.cs" />
+    <Compile Include="ChainOfResponsibility\ChainItemBase.cs" />
+    <Compile Include="ChainOfResponsibility\ChainItem1.cs" />
+    <Compile Include="ChainOfResponsibility\ChainItem2.cs" />
+    <Compile Include="ChainOfResponsibility\ChainItem3.cs" />
+    <Compile Include="ChainOfResponsibility\IChainItem.cs" />
     <Compile Include="IService.cs" />
     <Compile Include="FrirstService.cs" />
+    <Compile Include="ChainOfResponsibility\RegisterChainOfResponsibility.cs" />
     <Compile Include="SecondService.cs" />
     <Compile Include="TestBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

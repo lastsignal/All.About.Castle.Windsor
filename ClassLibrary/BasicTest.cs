@@ -24,7 +24,7 @@ namespace ClassLibrary
         }
     }
 
-    [TestFixture]
+	[TestFixture]
     public class When_duplicate_registration_for_the_same_class : TestBase
     {
         [Test]

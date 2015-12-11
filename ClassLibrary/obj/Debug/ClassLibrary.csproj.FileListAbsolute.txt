@@ -11,3 +11,16 @@ P:\All.About.Castle.Windsor\ClassLibrary\bin\Debug\nunit.framework.xml
 P:\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
 P:\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.dll
 P:\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.pdb
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.dll
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\obj\Debug\ClassLibrary.pdb
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\ClassLibrary.dll
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\ClassLibrary.pdb
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\Castle.Core.dll
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\Castle.Windsor.dll
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\nunit.framework.dll
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\NUnit.Should.dll
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\Castle.Core.xml
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\Castle.Windsor.xml
+P:\OpenProjects\All.About.Castle.Windsor\ClassLibrary\bin\Debug\nunit.framework.xml
