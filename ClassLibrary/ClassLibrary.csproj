@@ -63,6 +63,8 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="BaseClass\BaseClassRegistrationtest.cs" />
+    <Compile Include="BaseClass\ServiceBase.cs" />
     <Compile Include="BasicTest.cs" />
     <Compile Include="ChainOfResponsibility\ChainItemBase.cs" />
     <Compile Include="ChainOfResponsibility\ChainItem1.cs" />
